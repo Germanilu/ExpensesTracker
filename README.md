@@ -3,6 +3,7 @@
 A budget management web application built with React + TypeScript + Vite.  
 It uses Context API and useReducer for state management, and includes external libraries for modal interactions and data visualizations.
 
+This application is deployed in Netlify, you can see it here: [App](https://adorable-fenglisu-8de5e3.netlify.app/).
 ---
 
 ## 🚀 Features
